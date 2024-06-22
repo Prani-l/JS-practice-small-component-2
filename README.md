@@ -1,0 +1,1 @@
+# JS-practice-small-component-2
